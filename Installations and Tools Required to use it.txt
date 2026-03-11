@@ -1,0 +1,4 @@
+1) Hairless MIDI Serial
+2) LoopMIDI
+3) Drummica-KontaktFull
+4) Some DAW (I used Waveform) 
